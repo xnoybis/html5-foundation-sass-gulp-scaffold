@@ -35,7 +35,7 @@
 	<script src="js/vendors.js"></script>
 	<!-- end of vendor scripts -->
 
-	<script src="js/ea.scripts.js"></script>
+	<script src="js/scripts.js"></script>
 
 	<!-- livereload script - dev env only -->
 	<script src="//<?php echo $_SERVER['SERVER_NAME']; ?>:35729/livereload.js"></script>
