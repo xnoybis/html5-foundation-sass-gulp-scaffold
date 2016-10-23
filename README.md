@@ -18,16 +18,25 @@ Edit /src/scss/foundation.scss to choose Foundation packages to be included in y
 
 ---
 Project's folder structure:
-
+```
 dist/  
     css/  
+        foundation.css  
+        style.css  
     js/  
+        vendors.js  
+        scripts.js  
+    index.php
+    
 src/  
     js/  
+        *.js
         vendors/  
+            *.js
     scss/  
+        *.scss
         foundation/  
-
+```
 
 ---
 Author:
