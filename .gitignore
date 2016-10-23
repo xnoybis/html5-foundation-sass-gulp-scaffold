@@ -3,3 +3,5 @@ bower_components/
 .sass-cache/
 src/scss/foundation/
 src/js/vendors/
+dist/css/
+dist/js/
