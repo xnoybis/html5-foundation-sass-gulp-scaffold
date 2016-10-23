@@ -32,7 +32,7 @@ gulp.task('process-vendors-js', function () {
 gulp.task('process-site-js', function () {  
 	return gulp.src(paths.jsSrc+'/*.js')
 		.pipe(srcmaps.init())
-		.pipe(concat('ea.scripts.js'))
+		.pipe(concat('scripts.js'))
 		.pipe(uglify())
 		.pipe(srcmaps.write('.'))
 		.pipe(gulp.dest(paths.jsDist));
