@@ -17,5 +17,18 @@ This will install required bower and npm packages, create required folders and w
 Edit /src/scss/foundation.scss to choose Foundation packages to be included in your stylesheet.
 
 ---
+Project's folder structure:
+
+dist/
+   css/
+   js/
+src/
+   js/
+      vendors/
+   scss/
+      foundation/
+
+
+---
 Author:
 Luke Jakimowicz (luke@evidentagenda.com)
