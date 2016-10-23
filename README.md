@@ -20,13 +20,13 @@ Edit /src/scss/foundation.scss to choose Foundation packages to be included in y
 Project's folder structure:
 
 dist/  
-   css/  
-   js/  
+  css/  
+  js/  
 src/  
-   js/  
-      vendors/  
-   scss/  
-      foundation/  
+  js/  
+    vendors/  
+  scss/  
+    foundation/  
 
 
 ---
